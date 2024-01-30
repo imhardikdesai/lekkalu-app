@@ -65,7 +65,8 @@
     "uuid": "^9.0.1",
     "xlsx": "^0.18.5",
     "zod": "^3.22.4",
-    "@react-native-community/datetimepicker": "7.2.0"
+    "@react-native-community/datetimepicker": "7.2.0",
+    "expo-intent-launcher": "~10.7.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
