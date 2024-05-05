@@ -74,8 +74,7 @@
     "uuid": "^9.0.1",
     "xlsx": "^0.18.5",
     "zod": "^3.22.4",
-    "@react-native-community/datetimepicker": "7.2.0",
-    "@shopify/react-native-skia": "0.1.196"
+    "@react-native-community/datetimepicker": "7.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
